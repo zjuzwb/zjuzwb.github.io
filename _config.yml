@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "wblab.png"
   name             : "Wenbin Zhu"
-  pronouns         : "he/his"# example: "she/her"  
+  pronouns         :  # example: "she/her"  
   bio              : "A pedestrian bumping into each other on the road of scientific research."
   location         : "Hangzhou, Zhejiang, China"
   employer         : "Zhejiang Lab"
