@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+* Postdoc in Research Center for Frontier Fundamental Studies, Zhejiang Lab, 2023- 
+* Ph.D in School of Mechanical Engineering, Zhejiang University, 2017-2019
+* M.S. in School of Mechanical Engineering and Electrical Engineering, Wuhan University of Technology, 2013-2017
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
