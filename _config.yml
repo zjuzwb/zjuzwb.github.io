@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "cn-ZH"
 title                    : "Wenbin Zhu / Personal site"
 title_separator          : "-"
 name                     : &name "Wenbin Zhu"
@@ -24,7 +24,7 @@ author:
   avatar           : "wblab.png"
   name             : "Wenbin Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A pedestrian bumping into each other on the road of scientific research."
   location         : "Hangzhou, Zhejiang, China"
   employer         : "Zhejiang Lab"
   uri              : https://zjuzwb.github.io# URL
